@@ -48,6 +48,44 @@
         ]
       },
       {
+        "tab": "Projects",
+        "groups": [
+          {
+            "group": "Overview",
+            "pages": [
+              "projects/index",
+              "projects/projects-list"
+            ]
+          },
+          {
+            "group": "Financial Tools",
+            "pages": [
+              "projects/financial-tools"
+            ]
+          },
+          {
+            "group": "Gaming & Entertainment",
+            "pages": [
+              "projects/gaming-entertainment"
+            ]
+          },
+          {
+            "group": "Web Development",
+            "pages": [
+              "projects/web-development"
+            ]
+          },
+          {
+            "group": "Individual Projects",
+            "pages": [
+              "projects/individual-projects/ff14-gillionaire",
+              "projects/individual-projects/money-tracker",
+              "projects/individual-projects/portfolio-website"
+            ]
+          }
+        ]
+      },
+      {
         "tab": "API reference",
         "groups": [
           {
